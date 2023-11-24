@@ -1,0 +1,2 @@
+C:\Maciek\codding\Project32_VS2022\Debug\Project.exe
+C:\Maciek\codding\BubbleSortAssembly\Debug\Project.exe
